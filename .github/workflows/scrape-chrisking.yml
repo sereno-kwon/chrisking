@@ -1,0 +1,27 @@
+name: Scrape chrisking.com images
+
+# 일회성: chrisking.com에서 이미지 후보를 모아 scrape 브랜치에 커밋합니다.
+on:
+  push:
+    branches: [main]
+    paths: [.github/scrape/**, .github/workflows/scrape-chrisking.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crawl
+        run: python3 .github/scrape/crawl.py "$RUNNER_TEMP/out"
+      - name: Commit to scrape branch
+        run: |
+          cd "$RUNNER_TEMP/out"
+          git init -q -b scrape
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Scraped chrisking.com images"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" scrape
