@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://chrisking.rubiworkshop.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chrisking.rubiworkshop.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chrisking.rubiworkshop.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chrisking.rubiworkshop.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chrisking.rubiworkshop.com/"/>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/bb/01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/bb/02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/06.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/07.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/08.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/09.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/brand/11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/headset/06.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hero/01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hero/02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hero/03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hero/04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hub/01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hub/02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hub/03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hub/04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/hub/05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://chrisking.rubiworkshop.com/images/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://chrisking.rubiworkshop.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chrisking.rubiworkshop.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chrisking.rubiworkshop.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chrisking.rubiworkshop.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chrisking.rubiworkshop.com/"/>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chrisking.rubiworkshop.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chrisking.rubiworkshop.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chrisking.rubiworkshop.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://chrisking.rubiworkshop.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chrisking.rubiworkshop.com/"/>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
